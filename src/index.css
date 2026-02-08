@@ -66,6 +66,7 @@ justify-content: space-between;
     font-size: 88px;
     line-height: 88px;
     font-weight: bold;
+    margin-left: 10px;
 }
 .weather-app-unit{
     margin-top: 6px;
